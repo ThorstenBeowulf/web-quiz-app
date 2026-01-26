@@ -22,7 +22,7 @@ The deployed site is avaiable at: https://thorstenbeowulf.github.io/challenge4-w
 
 The random shuffle code was copied from the user coolaj86 on stackoverflow: https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array
 
-##Copyright and Licencing
+## Copyright and Licencing
 
 All original work in this repository is Copyright (c) 2023 Thorsten Beowulf.
 
